@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brasil-segundo-turno-2026.pabloreyespo.workers.dev/sitemap.xml
